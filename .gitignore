@@ -4,3 +4,4 @@
 *.pyc
 .DS_Store
 data/*
+src/nombre_del_archivo
